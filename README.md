@@ -7,19 +7,19 @@ It is adviseable in most cases to first ask for access to your data, then send a
 However, it may also be appropriate to use the combined claims if you are confident that the organization you are filing the request with will treat it in a thorough and reliable manner.
 
 # The templates, explained
-**Access your data** (Access-my-data.md)<br/>
+**Access your data**; Access-my-data.md<br/>
 Use this to demand a copy of all your data.
 
-**Ask for erasure** (Erasure-request.md)<br/>
+**Ask for erasure**; Erasure-request.md<br/>
 After reviewing the data, use this template to demand that the company delete parts of (or all) your data.
 
-**Ask for correction** (Correct-my-data.md)<br/>
+**Ask for correction**; Correct-my-data.md<br/>
 After reviewing the data, use this template to demand that the company change incorrect information about you (data rectification).
 
-**Deliver my data, then erase what you do not need** (Deliver-my-data-then-erase-what-you-do-not-need.md)<br/>
+**Deliver my data, then erase what you do not need**; Deliver-my-data-then-erase-what-you-do-not-need.md<br/>
 Combined access and erasure request, asking the company to delete all data not strictly needed to maintain your customer account and services you use or have paid for.
 
-**Deliver my data, then erase everything** (Deliver-my-data-then-erase-everything.md)<br/>
+**Deliver my data, then erase everything**; Deliver-my-data-then-erase-everything.md<br/>
 Combined access and erasure request, asking the company to deliver all data, then delete it.
 
 For more information on the GDPR, see the ICO website:
