@@ -12,7 +12,7 @@ In addition, I would like you to address the following, especially as it relates
 
 - the categories of personal data concerned;
 
-- the recipients or categories of recipient you disclose the personal data to;
+- the recipients you have disclosed or are disclosing my personal data to, and what data has been disclosed to them;
 
 - your retention period for storing the personal data or, where this is not possible, your criteria for determining how long you will store it;
 
