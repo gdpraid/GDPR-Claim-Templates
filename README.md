@@ -33,7 +33,7 @@ If you are not satisfied with their response, you can complain to your [national
 
 # Company mailing addresses for submitting claims
 
-I've gathered [the mailing addresses](https://github.com/gdpraid/GDPR-Claim-Templates/blob/master/Relevant-addresses.md) of some of the largest companies that collect your data. Please contribute with other relevant addresses if you know which ones are appropriate to use.
+I've gathered [mailing addresses](https://github.com/gdpraid/GDPR-Claim-Templates/blob/master/Relevant-addresses.md) of some of the largest companies that collect your data. Please contribute with other relevant addresses if you know which ones are appropriate to use.
 
 # Data downloads and closed accounts
 
