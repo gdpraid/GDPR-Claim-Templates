@@ -1,4 +1,4 @@
-# GDPR-Claim-Templates
+# GDPR claims and complaint templates for European citizens
 Use these templates to exercise your GDPR rights as a European citizen. Feel free to adapt as you like.
 
 # Suggetions on use
