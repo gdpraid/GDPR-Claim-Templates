@@ -24,9 +24,9 @@ In addition, I would like you to address the following, especially as it relates
 
 - the safeguards you provide if you transfer personal data to a third country or an international organization.
 
-If you do not wish to or cannot provide access to all of my data, I ask you to state the reasons with precise reference to law and relevant articles in the data protection regulation, so that I have the necessary background information should I choose to lodge a complaint with the Data Proteciton Authorities.
+If you do not wish to or cannot provide access to all of my data, I ask you to state the reasons with precise reference to law and relevant articles in the data protection regulation, so that I have the necessary background information should I choose to lodge a complaint with the Data Proteciton Authority (DPA).
 
-I ask that you send me the information in a secure manner so that this request does not lead to further consequences in regards to my personal information. If I do not receive a reply within one month, as specified in Article 12, I will file a complaint with the Data Protection Authority.
+I ask that you send me the information in a secure manner so that this request does not lead to further consequences in regards to my personal information. If I do not receive a reply within one month, as specified in Article 12, I will consider filing a complaint with the DPA.
 
 Best regards,
 
