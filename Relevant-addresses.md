@@ -50,3 +50,11 @@ USA<br/>
 [Facebook GDPR compliance](https://www.facebook.com/business/gdpr)
 
 [Download your Facebook data](https://www.facebook.com/help/1701730696756992?helpref=hc_global_nav)
+
+# Amazon
+
+Amazon UK Services Ltd, Legal Department<br/>
+1 Principal Place<br/>
+London<br/>
+EC2A 2FA<br/>
+United Kingdom<br/>
