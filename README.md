@@ -16,6 +16,9 @@ After reviewing the data, use this template to demand that the company delete pa
 ***Correct-my-data.md***<br/>
 After reviewing the data, use this template to demand that the company change incorrect information about you (data rectification).
 
+***Move-my-data.md***<br/>
+Ask for your data to be moved to a different company or organization.
+
 ***Deliver-my-data-then-erase-what-you-do-not-need.md***<br/>
 Combined access and erasure request, asking the company to delete all data not strictly needed to maintain your customer account and services you use or have paid for.
 
