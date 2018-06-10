@@ -18,7 +18,7 @@ In addition, I would like you to address the following, especially as it relates
 
 - the existence of the right to request rectification, erasure or restriction or to object to such processing;
 
-- information about the source of the data, where it was not obtained directly from the individual;
+- information about the source of the data, where it was not obtained directly from me;
 
 - the existence of automated decision-making (including profiling); and
 
