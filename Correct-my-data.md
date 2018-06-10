@@ -2,7 +2,7 @@
 
 According to the General Data Protection Regulation (GDPR), European citizens have a right to data rectification under Article 16.
 
-I would like you to be aware at the outset, that I anticipate reply to my request within one month as required by Article 12, failing which I will be sending this inquiry with a letter of complaint to the Data Protection Authority.
+I anticipate a reply to my request within one month as required by Article 12, failing which I will be sending this inquiry with a letter of complaint to the Data Protection Authority.
 
 After having reviewed the information you sent me, I request that you correct the following:
 
