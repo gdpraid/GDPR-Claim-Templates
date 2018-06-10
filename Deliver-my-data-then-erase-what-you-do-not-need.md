@@ -12,13 +12,13 @@ In addition, I would like you to address the following, especially as it relates
 
 - the categories of personal data concerned;
 
-- the recipients or categories of recipient you disclose the personal data to;
+- the recipients you have disclosed my personal data to, and what data has been disclosed to them;
 
 - your retention period for storing the personal data or, where this is not possible, your criteria for determining how long you will store it;
 
 - the existence of the right to request rectification, erasure or restriction or to object to such processing;
 
-- information about the source of the data, where it was not obtained directly from the individual;
+- information about the source of the data, where it was not obtained directly from me;
 
 - the existence of automated decision-making (including profiling); and
 
