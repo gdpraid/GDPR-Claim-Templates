@@ -1,4 +1,4 @@
-Erasure Request under the General Data Protection Regulation (GDPR)
+**Erasure Request under the General Data Protection Regulation (GDPR)**
 
 According to the General Data Protection Regulation (GDPR), European citizens have a right to data erasure under Article 17.
 
