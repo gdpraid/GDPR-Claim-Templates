@@ -1,4 +1,4 @@
-***General Data Protection Regulation (GDPR) complaint***
+**General Data Protection Regulation (GDPR) complaint**
 
 On May 25 2018, I asked [Company] for a full copy of my data as well as for details regarding how the data has been and is used.
 
