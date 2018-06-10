@@ -22,10 +22,10 @@ Combined access and erasure request, asking the company to delete all data not s
 ***Deliver-my-data-then-erase-everything.md***<br/>
 Combined access and erasure request, asking the company to deliver all data, then delete it.
 
-For more information on the GDPR, see the [ICO website](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/):
-
 ***Tracking-and-3rd-parties-extra.md***<br/>
 Add and adapt this if you want information on behavioural tracking information supplied by third parties, for example from their contact list.
+
+For more information on the GDPR, see the [ICO website](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/):
 
 # Company mailing addresses for submitting claims
 
