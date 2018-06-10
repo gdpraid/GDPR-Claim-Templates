@@ -32,7 +32,7 @@ For more information on the GDPR, see the [ICO website](https://ico.org.uk/for-o
 
 # Company mailing addresses for submitting claims
 
-I've gathered [the mailing addresses](https://github.com/gdpraid/GDPR-Claim-Templates/blob/master/Relevant-addresses.md) of some of the largest companies that collect your data. Please contribute with other relevant addresses if you know which ones are appropriate to use. 
+I've gathered [the mailing addresses](https://github.com/gdpraid/GDPR-Claim-Templates/blob/master/Relevant-addresses.md) of some of the largest companies that collect your data. Please contribute with other relevant addresses if you know which ones are appropriate to use.
 
 # Data downloads and closed accounts
 
@@ -40,6 +40,12 @@ It is usually better to send a manual claim either in addition to or instead of 
 
 The possibility to download your data is usually not available if you do not currently hold an account. Even though some companies claim the opposite, one nevertheless does have the right to access and erasure even when the account has been closed, if the company in question keeps all or parts of your information, be it in an anonymized form or not. Companies need to make an effort to identify that you are the right person if they hold data on you. For instance, if you still have access to the email address you used or any phone numbers they still have on file or your name/birth date is unique and matches your passport, they should be able to treat your claim.
 
-Some companies, like Amazon, will try and convince you that "most" of your information can be accessed through your personal pages, and will only treat these requests after you insist. Many companies will point you in the direction of a general legal statement instead of addressing your questions, and will only give you a list of third parties they have shared your information with after you insist/complain to the local Data Protection Authority. The European Commission has [a list of local DPAs](http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061) who will receive and treat your complaint if you are dissatisfied with how your request is treated.
+Some companies, like Amazon, will try and convince you that "most" of your information can be accessed through your personal pages, and will only treat these requests after you insist. Many companies will point you in the direction of a general legal statement instead of addressing your questions, and will only give you a list of third parties they have shared your information with after you insist/complain to the local Data Protection Authority.
+
+# Complaints
+
+The European Commission has [a list of local DPAs](http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061) who will receive and treat your complaint if you are dissatisfied with how your request is treated.
+
+Use our template and adapt, just by specifying what you are dissarisfied with, or by also citing provisions of the GDPR, available in a [convenient and accessible form](https://gdpr-info.eu) in English or from [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG) in different languages.
 
 
