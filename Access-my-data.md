@@ -14,17 +14,17 @@ In addition, I would like you to address the following, especially as it relates
 
 - the categories of personal data concerned;
 
-- the recipients or categories of recipient you disclose the personal data to;
+- the recipients you disclose the personal data to;
 
 - your retention period for storing the personal data or, where this is not possible, your criteria for determining how long you will store it;
 
 - the existence of the right to request rectification, erasure or restriction or to object to such processing;
 
-- information about the source of the data, where it was not obtained directly from the individual;
+- information about the source of the data, where it was not obtained directly from me;
 
 - the existence of automated decision-making (including profiling); and
 
-- the safeguards you provide if you transfer personal data to a third country or international organisation.
+- the safeguards you provide if you transfer personal data to a third country or an international organization.
 
 If you do not wish to or cannot provide access to all of my data, I ask you to state the reasons with precise reference to law and relevant articles in the data protection regulation, so that I have the necessary background information should I choose to lodge a complaint with the Data Proteciton Authorities.
 
