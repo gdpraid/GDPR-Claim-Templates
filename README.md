@@ -1,10 +1,8 @@
 # GDPR-Claim-Templates
-Consumer templates to exercise GDPR rights.
-
-A couple of GDPR claim templates you may use to exercise your GDPR rights as a European citizen. Feel free to use and adapt these as you like.
+Use these templates to exercise your GDPR rights as a European citizen. Feel free to adapt as you like.
 
 # Suggetions on use
-It is adviseable in most cases to first ask for access to your data in a separate request, then send an erasure request regarding the data you believe it is excessive for the organization to store. You may send these templates in a letter by ordinary mail or by email. I would recommend sending by ordinary mail and including a copy of your passport as well as any information you have that may help them identify your data, such as current or previous email addresses and phone numbers.
+It is adviseable in most cases to first ask for access to your data, then send an erasure request separately after having looked at what you got, if you believe the company or organization is storing excessive amounts of personal data on you. You may send these templates in a letter by ordinary mail or by email. I would recommend sending the request by ordinary mail and including a copy of your passport as well as any information you have that may help them identify your data, such as current or previous email addresses and phone numbers.
 
 However, it may also be appropriate to use the combined claims if you are confident that the organization you are filing the request with will treat it in a thorough and reliable manner.
 
