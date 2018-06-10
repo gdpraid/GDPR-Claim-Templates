@@ -17,3 +17,9 @@ On July 20, [Company] responded, refusing to delete the following information:
 [List the information they refused to delete]
 
 I believe that [Company] is wrong in refusing my request. I therefore ask you, as the competent Data Protection Authority, to review the case and make a decision on whether the delivered data and information is complete or if, in your view, [Company] should have made further effort to locate and deliver my data, and whether they in fact have a valid legal reason to refuse my request for erasure.
+
+[You may also cite the GDPR here, and specify in what manner you believe the company has acted in contravention of the regulation's provisions, if you like]
+
+Best regards,
+
+[Your Name]
