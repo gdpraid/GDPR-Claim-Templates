@@ -24,6 +24,9 @@ Combined access and erasure request, asking the company to deliver all data, the
 
 For more information on the GDPR, see the [ICO website](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/):
 
+***Tracking-and-3rd-parties-extra.md***<br/>
+Add and adapt this if you want information on behavioural tracking information supplied by third parties, for example from their contact list.
+
 # Company mailing addresses for submitting claims
 
 I've gathered [the mailing addresses](https://github.com/gdpraid/GDPR-Claim-Templates/blob/master/Relevant-addresses.md) of some of the largest companies that collect your data. Please contribute with other relevant addresses if you know which ones are appropriate to use. 
