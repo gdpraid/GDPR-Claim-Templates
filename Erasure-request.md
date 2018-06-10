@@ -2,7 +2,7 @@ Erasure Request under the General Data Protection Regulation (GDPR)
 
 According to the General Data Protection Regulation (GDPR), European citizens have a right to data erasure under Article 17.
 
-I anticipate a reply to my request within one month as required by Article 12, failing which I will be sending my inquiry with a letter of complaint to the Data Protection Authority.
+I anticipate a reply to my request within one month as required by Article 12, failing which I will be sending this inquiry with a letter of complaint to the Data Protection Authority.
 
 After having reviewed the information you sent me, I request erasure of:
 
