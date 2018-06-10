@@ -1,6 +1,6 @@
 # Relevant postal and web addresses
 
-Mailing addresses to the European and U.S. headquarters of the largest relevant 
+Mailing addresses to the European and U.S. headquarters of companies that collect personal data.
 
 # Google
 
