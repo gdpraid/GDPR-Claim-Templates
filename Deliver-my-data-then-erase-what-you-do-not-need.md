@@ -2,9 +2,7 @@
 
 According to the General Data Protection Regulation (GDPR), European citizens have a right to demand a copy of their information under Article 15 and a right to data erasure (the right to be forgotten) under Article 17.
 
-I am concerned that your organization’s information practices may be putting my personal data at risk of being exposed or that you may have breached your obligation to keep my personal information safe.
-
-I anticipate a reply to my request within one month as required by Article 12, failing which I will be sending this inquiry with a letter of complaint to the Data Protection Authority.
+I am worried that your organization may be putting my personal data at risk of exposure or that you may already have breached your obligation to keep my personal information safe.
 
 I request access to all personal data you hold that relates to me pursuant to Article 15 of the General Data Protection Regulation.
 
@@ -34,7 +32,7 @@ If you do not wish to delete said data, I ask you to state the reasons with prec
 
 I also ask that you advise which data has not been deleted to maintain my customer account, continue providing me with services or comply with relevant laws, so that I may complain or ask for correction of said data, if what you decide to keep seems excessive.
 
-I ask that you send me the information in a secure manner so that this request does not lead to further consequences in regards to my personal information.
+I ask that you send me the information in a secure manner so that this request does not lead to further consequences in regards to my personal information.  If I do not receive a reply within one month, as specified in Article 12, I will file a complaint with the Data Protection Authority.
 
 Best regards,
 
