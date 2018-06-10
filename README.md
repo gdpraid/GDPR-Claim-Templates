@@ -47,7 +47,7 @@ Some companies, like Amazon, will try and convince you that "most" of your infor
 
 The European Commission has [a list of local DPAs](http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061) who will receive and treat your complaint if you are dissatisfied with how your request is treated.
 
-Use our [template](https://github.com/gdpraid/GDPR-Claim-Templates/blob/master/DPA-complaint.md) and adapt, just by specifying what you are dissarisfied with, or by also citing provisions of the GDPR, available in a [convenient and accessible form](https://gdpr-info.eu) in English or from [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG) in different languages.
+Use our [template](https://github.com/gdpraid/GDPR-Claim-Templates/blob/master/DPA-complaint.md) and adapt, by specifying what you are dissatisfied with, or by also citing provisions of the GDPR, available in a [convenient and accessible form](https://gdpr-info.eu) in English or from [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG) in different languages.
 
 For more information on the GDPR, see the [ICO website](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/).
 
