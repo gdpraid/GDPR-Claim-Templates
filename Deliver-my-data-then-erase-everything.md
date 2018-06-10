@@ -28,7 +28,7 @@ I believe most of the personal data you are processing is no longer necessary to
 
 On this basis, I ask that you delete all personal data about me as soon as a copy of said data has been delivered to me. I ask for a final confirmation when this has been done.
 
-If you do not wish to delete all of the data, I ask you to state the reasons with precise reference to law and relevant articles in the data protection regulation, so that I have the necessary background information should I choose to lodge a complaint with the Data Protctiton Authority (DPA).
+If you do not wish to delete all of the data, I ask you to state the reasons with precise reference to law and relevant articles in the data protection regulation, so that I have the necessary background information should I choose to lodge a complaint with the Data Protection Authority (DPA).
 
 I ask that you send me the information in a secure manner so that this request does not lead to further consequences in regards to my personal information. If I do not receive a reply within one month, as specified in Article 12, I will consider filing a complaint with the DPA.
 
