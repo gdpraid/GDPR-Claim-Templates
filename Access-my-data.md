@@ -1,4 +1,4 @@
-Right of Access Request under the General Data Protection Regulation (GDPR)
+**Right of Access Request under the General Data Protection Regulation (GDPR)**
 
 According to the General Data Protection Regulation (GDPR), European citizens have a right to demand a copy of their information and receive details on how the information is used under Article 13, 14 and 15.
 
