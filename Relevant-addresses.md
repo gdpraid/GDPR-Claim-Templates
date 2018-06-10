@@ -4,16 +4,16 @@ Mailing addresses to the European and U.S. headquarters of the largest relevant
 
 # Google
 
-Google
-Gordon House
-Barrow St
-Dublin 4
-Ireland
+Google<br/>
+Gordon House<br/>
+Barrow St<br/>
+Dublin 4<br/>
+Ireland<br/>
 
-Google
-1600 Amphitheatre Parkway
-Mountain View, CA 94043
-United States
+Google<br/>
+1600 Amphitheatre Parkway<br/>
+Mountain View, CA 94043<br/>
+United States<br/>
 
 [Google locations](https://www.google.com/about/locations/?region=europe)
 
@@ -23,28 +23,29 @@ United States
 
 # Apple
 
-Apple
-Hollyhill Industrial Estate
-Hollyhill, Cork
-Ireland
+Apple<br/>
+Hollyhill Industrial Estate<br/>
+Hollyhill, Cork<br/>
+Ireland<br/>
 
-Apple
-Infinite Loop,
-Cupertino, CA 95014
-USA
+Apple<br/>
+Infinite Loop<br/>
+Cupertino, CA 95014<br/>
+USA<br/>
 
 [Apple privacy](https://privacy.apple.com)
 
 # Facebook
 
-Facebook
-4 Grand Canal Square
-Dublin 2
-Ireland
+Facebook<br/>
+4 Grand Canal Square<br/>
+Dublin 2<br/>
+Ireland<br/>
 
-Facebook
-1 Hacker Way
-Menlo Park, CA 94025
+Facebook<br/>
+1 Hacker Way<br/>
+Menlo Park, CA 94025<br/>
+USA<br/>
 
 [Facebook GDPR compliance](https://www.facebook.com/business/gdpr)
 
