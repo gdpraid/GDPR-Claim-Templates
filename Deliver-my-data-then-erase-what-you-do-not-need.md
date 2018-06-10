@@ -1,4 +1,4 @@
-Right of Access and Erasure Request under the General Data Protection Regulation (GDPR)
+**Right of Access and Erasure Request under the General Data Protection Regulation (GDPR)**
 
 According to the General Data Protection Regulation (GDPR), European citizens have a right to demand a copy of their information under Article 15 and a right to data erasure (the right to be forgotten) under Article 17.
 
