@@ -28,11 +28,11 @@ I believe most of the personal data you are processing is no longer necessary to
 
 On this basis, I ask that you delete all personal data about me you are unnecessarily storing as soon as a copy of said data has been delivered to me. I ask for a final confirmation when this has been done. You may keep data which is strictly necessary to keep my customer account with you and to comply with laws, if such compliance is compulsory, and to keep providing me services and products I actually use. Everything else should be deleted. I ask for a final confirmation when this has been done.
 
-If you do not wish to delete said data, I ask you to state the reasons with precise reference to law and relevant articles in the data protection regulation, so that I have the necessary background information should I choose to lodge a complaint with the Data Proteciton Authorities.
+If you do not wish to delete said data, I ask you to state the reasons with precise reference to law and relevant articles in the data protection regulation, so that I have the necessary background information should I choose to lodge a complaint with the Data Proteciton Authority (DPA).
 
 I also ask that you advise which data has not been deleted to maintain my customer account, continue providing me with services or comply with relevant laws, so that I may complain or ask for correction of said data, if what you decide to keep seems excessive.
 
-I ask that you send me the information in a secure manner so that this request does not lead to further consequences in regards to my personal information.  If I do not receive a reply within one month, as specified in Article 12, I will file a complaint with the Data Protection Authority.
+I ask that you send me the information in a secure manner so that this request does not lead to further consequences in regards to my personal information. If I do not receive a reply within one month, as specified in Article 12, I will consider filing a complaint with the DPA.
 
 Best regards,
 
