@@ -1,5 +1,7 @@
 **General Data Protection Regulation (GDPR) complaint**
 
+Dear Data Protection Authority representatives,
+
 On [Date], I asked [Company] for a full copy of my data as well as for details regarding how the data has been and is used.
 
 [Company] replied on [Date] without warning me that their repsonse would be late or stating a reason, in contravention of Article 12, which requires companies to reply within 30 days except in special cases.
