@@ -42,7 +42,7 @@ The possibility to download your data is usually not available if you do not cur
 
 Some companies, like Amazon, will try and convince you that "most" of your information can be accessed through your personal pages, and will only treat these requests after you insist. Many companies will point you in the direction of a general legal statement instead of addressing your questions, and will only give you a list of third parties they have shared your information with after you insist/complain to the local Data Protection Authority.
 
-# Complaints
+# Not satisfied with their response?
 
 The European Commission has [a list of local DPAs](http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061) who will receive and treat your complaint if you are dissatisfied with how your request is treated.
 
