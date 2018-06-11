@@ -16,6 +16,8 @@ I ask that you send me information in a secure manner so that this request does 
 
 In the event that you have disclosed any of my data to third parties, please advise me, inform them of this request and make sure they also delete the data.
 
+I look forward to receiving your reply.
+
 Best regards,
 
 [Your Name]
