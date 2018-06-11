@@ -12,6 +12,8 @@ If you do not wish to transmit my data, I ask you to state the reasons with prec
 
 I ask that you send me the information in a secure manner so that this request does not lead to further consequences in regards to my personal information. In accordance with Article 12, I expect a response to my request without undue delay and in any event within one month of receipt.
 
+I look forward to receiving your reply.
+
 Best regards,
 
 [Your Name]
