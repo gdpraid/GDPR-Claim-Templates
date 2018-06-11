@@ -1,16 +1,20 @@
 **Rectification Request under the General Data Protection Regulation (GDPR)**
 
-According to the General Data Protection Regulation (GDPR), European citizens have a right to data rectification under Article 16.
+Dear [Name of the company or organization],
 
-After having reviewed the information you sent me, I request that you correct the following:
+The General Data Protection Regulation (GDPR) grants European citizens a right to rectification of information that is inaccurate or incomplete in relation to purposes for which it is being processed, under Article 16.
+
+After having reviewed the information you sent me, I request that you correct the following information:
 
 [Indicate what you want corrected]
 
-The above data is, as I see it, incorrect and imprecise im relation to the purpose which you originally collected or processed it for.
+If you do not wish to rectify the information, I ask you to state the reasons with precise reference to law and relevant articles in the data protection regulation, so that I have the necessary background information should I choose to lodge a complaint with the Data Protection Authority (DPA).
 
-If you do not wish to change said data, I ask you to state the reasons with precise reference to law and relevant articles in the data protection regulation, so that I have the necessary background information should I choose to lodge a complaint with the Data Protection Authority (DPA).
+I ask that you send me the information in a secure manner so that this request does not lead to further consequences in regards to my personal information. 
 
-I ask that you send me the information in a secure manner so that this request does not lead to further consequences in regards to my personal information. If I do not receive a reply within one month, as specified in Article 12, I will consider filing a complaint with the DPA.
+In accordance with Article 12, I expect a response to my request without undue delay and in any event within one month of receipt.
+
+I look forward to receiving your reply.
 
 Best regards,
 
