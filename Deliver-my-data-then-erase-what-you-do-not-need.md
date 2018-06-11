@@ -1,6 +1,8 @@
 **Right of Access and Erasure Request under the General Data Protection Regulation (GDPR)**
 
-According to the General Data Protection Regulation (GDPR), European citizens have a right to demand a copy of their information under Article 15 and a right to data erasure (the right to be forgotten) under Article 17.
+Dear [Name of the company or organization],
+
+The General Data Protection Regulation (GDPR) grants European citizens a right to demand a copy of their information under Article 15 and a right to data erasure (the right to be forgotten) under Article 17.
 
 I am worried that your organization may be putting my personal data at risk of exposure or that you may already have breached your obligation to keep my personal information safe.
 
@@ -16,13 +18,13 @@ In addition, I would like you to address the following, especially as it relates
 
 - your retention period for storing the personal data or, where this is not possible, your criteria for determining how long you will store it;
 
-- the existence of the right to request rectification, erasure or restriction or to object to such processing;
+- how I can request rectification, erasure or restriction or object to your data processing;
 
 - information about the source of the data, where it was not obtained directly from me;
 
 - the existence of automated decision-making (including profiling); and
 
-- the safeguards you provide if you transfer personal data to a third country or international organisation.
+- the safeguards you provide if you transfer personal data to a third country or an international organization.
 
 I believe most of the personal data you are processing is no longer necessary to store for the purpose which you originally collected or processed it for. I withdraw my consent for you to process data about that is not absolutely necessary to continue providing me with services I use or have paid for.
 
@@ -32,7 +34,9 @@ If you do not wish to delete said data, I ask you to state the reasons with prec
 
 I also ask that you advise which data has not been deleted to maintain my customer account, continue providing me with services or comply with relevant laws, so that I may complain or ask for correction of said data, if what you decide to keep seems excessive.
 
-I ask that you send me the information in a secure manner so that this request does not lead to further consequences in regards to my personal information. If I do not receive a reply within one month, as specified in Article 12, I will consider filing a complaint with the DPA.
+I ask that you send me the information in a secure manner so that this request does not lead to further consequences in regards to my personal information. In accordance with Article 12, I expect a response to my request without undue delay and in any event within one month of receipt.
+
+I look forward to receiving your reply.
 
 Best regards,
 
