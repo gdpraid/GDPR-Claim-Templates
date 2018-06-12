@@ -10,7 +10,7 @@ However, it may also be appropriate to use the combined claims if you are confid
 ***Access-my-data.md***<br/>
 Use this to demand a copy of all your data.
 
-***Erasure-request.md***<br/>
+***Delete-my-data.md***<br/>
 After reviewing the data, use this template to demand that the company delete parts of (or all) your data.
 
 ***Correct-my-data.md***<br/>
