@@ -26,7 +26,7 @@ In addition, I would like you to address the following, especially as it relates
 
 If your organization has a privacy statement, I would like you to make sure that it adresses all of the above concerns. In the event that you have supplied data to third parties, however, I want a list of what third parties have in fact received my information.
 
-If your organization has a self-service option letting your users can download their data in a commonly used machine-readable format from your website, please advise where I can access this option and whether it contains all of the data you hold or not. If your self-download option does not provide access to all of my data, please explain what data is not included, and provide access to the omitted information.
+If your organization has a self-service option letting your users download their data in a commonly used machine-readable format from your website, please advise where I can access this option and whether it contains all of the data you hold or not. If your self-download option does not provide access to all of my data, please explain what data is not included, and provide access to the omitted information.
 
 Please be aware that I also want access to information you may hold on any closed accounts I have had with you in the past, that might not be available through self-service. I am attaching a copy of my passport and a list of current and previous email addresses, which may help you better identify my information.
 
