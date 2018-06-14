@@ -24,7 +24,11 @@ In addition, I would like you to address the following, especially as it relates
 
 - the safeguards you provide if you transfer personal data to a third country or an international organization.
 
-If you do not wish to or cannot provide access to all of my data, I ask you to state the reasons with precise reference to law and relevant articles in the data protection regulation, so that I have the necessary background information should I choose to lodge a complaint with the Data Protection Authority (DPA).
+If your organization has a privacy statement, I would like you to make sure that it adresses all of the above concerns. In the event that you have or will be supplying my information to third parties, however, I want a list of what third parties have in fact received my information.
+
+If your organization has a self-service option letting your users can download their data in a commonly used machine-readable format from your website, please advise where I can access this option and whether it contains all of the data you hold or not. If your self-download option does not provide access to all of my data, please explain what data is not included, and provide access to the omitted information.
+
+If you do not wish to or cannot provide access to my information, I ask you to state the reasons with precise reference to law and relevant articles in the data protection regulation, so that I have the necessary background information should I choose to lodge a complaint with the Data Protection Authority (DPA).
 
 I ask that you send me the information in a secure manner so that this request does not lead to further consequences in regards to my personal information.
 
